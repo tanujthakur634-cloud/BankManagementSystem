@@ -2,6 +2,10 @@ Java Bank Management System 🏦
 This is a console-based application I built to practice and implement core Object-Oriented Programming (OOP) principles in Java. 
 It’s designed to handle basic banking logic—everything from opening an account to managing transfers—without the need for a heavy database or GUI at this stage.
 
+🎥 Project Demo
+Watch the full walkthrough of the system in action:
+View on YouTube : https://www.youtube.com/watch?v=b8sab5SS-IY
+
 ********* Key Functionalities *********
 I focused on making the logic as realistic as possible for a CLI tool:
 
